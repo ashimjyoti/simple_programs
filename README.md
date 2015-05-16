@@ -1,5 +1,7 @@
 # simple programs
 
+# questions from here: http://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/
+
 General
 
     1. Find the most frequent integer in an array
